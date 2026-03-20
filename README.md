@@ -17,8 +17,8 @@ SpiceShelf is a responsive recipe web app built using HTML, CSS, JavaScript, and
 This is a frontend-only version (no PHP or database).
 
 ## Team Members
-- Your Name
-- Friend's Name
+- MM Muhla - ICT/2023/139
+- Ilma Iliyas - ICT/2023/146
 
 ## GitHub Repository
-https://github.com/yourusername/spiceshelf-frontend
+https://github.com/A-1b2003/spiceshelf-frontend
